@@ -45,6 +45,9 @@ Other References:
    * [depmap data](https://bioconductor.org/packages/devel/data/experiment/vignettes/depmap/inst/doc/depmap.html)
    * [using the depmap data](https://bioconductor.org/packages/release/data/experiment/vignettes/depmap/inst/doc/using_depmap.html)
 
+## Data
 
-## project (TBD)
+You can download depmap data using [this link](https://depmap.org/portal/download/all/)
+
+## Project (TBD)
 
